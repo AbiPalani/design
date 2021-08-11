@@ -32,6 +32,6 @@ document.body.append(container);
 
 for(var i=0;i<5;i++)
   {
-    createflag();
     document.write("&nbsp");
+    createflag();
   }
