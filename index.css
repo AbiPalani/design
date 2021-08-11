@@ -1,0 +1,26 @@
+body{
+    font-family: 'ABeeZee', sans-serif;
+  }
+  
+  :root{
+    font-size:20px;
+  }
+  
+  .flag{
+    height:100%;
+    width:100%;
+    display:inline;
+  }
+  .container{
+    background-color:white;
+    max-width:13rem;
+    border-radius:0.5rem;
+    overflow:hidden;
+    box-shadow:3px 3px 10px 0px rgba(50,50,50,0.1);
+  }
+  .info{
+    padding:1rem;
+  }
+  body{
+    background-color:whitesmoke;
+  }
